@@ -22,14 +22,6 @@ I am a passionate web developer with over **6 years** of experience specializing
 
 ---
 
-## 🌱 Currently Working On
-
-- Developing React Component libraries
-- Advanced patterns in React and state management with Redux
-- Performance optimization and SEO best practices
-
----
-
 ## 📫 Get in Touch
 
 You can reach me via [Email](mailto:rajithvgopalm@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/rajith-venu-gopal-3aab8979/). Let's discuss new opportunities or collaborative projects!
@@ -38,7 +30,7 @@ You can reach me via [Email](mailto:rajithvgopalm@gmail.com) or connect on [Link
 
 ## 🎉 Fun Facts
 
-- I have a passion for exploring drone technology and PC gaming.
+- I have a passion for exploring drone and PC gaming.
 - Always looking for innovative solutions to deliver the best user experiences.
 
 ---
