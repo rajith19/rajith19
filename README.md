@@ -16,7 +16,7 @@ I am a passionate web developer with over **6 years** of experience specializing
 ## 💻 Technical Skills
 
 - **Languages:** JavaScript (ES6+), TypeScript, PHP, HTML5, CSS3, Bootstrap
-- **Frameworks:** React, Angular, Node.js, Express
+- **Frameworks:** React, Node.js, Express
 - **Tools & Platforms:** Git (GitHub, GitLab), Docker, Jira, AWS (EC2, S3), WordPress, Confluence
 - **Databases:** MySQL, MongoDB
 
